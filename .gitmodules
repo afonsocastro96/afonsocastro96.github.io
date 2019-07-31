@@ -1,3 +1,6 @@
 [submodule "dataflow_analysis"]
 	path = dataflow_analysis
 	url = https://github.com/sceptross/Dataflow_Analysis.git
+[submodule "red_bingo"]
+	path = red_bingo
+	url = https://github.com/afonsocastro96/red_bingo
