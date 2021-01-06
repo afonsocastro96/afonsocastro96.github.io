@@ -4,3 +4,6 @@
 [submodule "red_bingo"]
 	path = red_bingo
 	url = https://github.com/afonsocastro96/red_bingo
+[submodule "crystal_rom_analyser"]
+	path = crystal_rom_analyser
+	url = https://github.com/afonsocastro96/crystal_rom_analyser
