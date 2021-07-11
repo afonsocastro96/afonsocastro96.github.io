@@ -7,3 +7,6 @@
 [submodule "crystal_rom_analyser"]
 	path = crystal_rom_analyser
 	url = https://github.com/afonsocastro96/crystal_rom_analyser
+[submodule "crystal-exploration-bingo"]
+	path = crystal-exploration-bingo
+	url = https://github.com/afonsocastro96/crystal-exploration-bingo.git
